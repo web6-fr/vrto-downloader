@@ -1,0 +1,17 @@
+{
+    "name": "web6/vrto-downloader",
+    "description": "Download panorama images from vrto.me",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "WEB6",
+        "email": "contact@web6.fr"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "W6\\VrtoDownloader\\": "src/"
+        }
+    }
+}

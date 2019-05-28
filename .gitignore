@@ -1,0 +1,4 @@
+/vendor/
+/demo/flat/
+/demo/deep/
+composer.json.lock
